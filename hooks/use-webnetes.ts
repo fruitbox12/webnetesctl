@@ -3,7 +3,7 @@ import {
   EBenchmarkKind,
   EResourceKind,
   Node,
-} from "@alphahorizonio/webnetes";
+} from "@pojntfx/webnetes";
 import { useCallback, useEffect, useRef, useState } from "react";
 import { unstable_batchedUpdates } from "react-dom";
 import { useTranslation } from "react-i18next";
